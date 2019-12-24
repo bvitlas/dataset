@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Universities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Ime": "Sveučilište u Zadru (University in Zadar)" }, "geometry": { "type": "Point", "coordinates": [ 15.22613, 44.11134 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Ime": "Sveučilište u Dubrovniku (University in Dubrovnik)" }, "geometry": { "type": "Point", "coordinates": [ 18.10213, 42.64294 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Ime": "Sveučilište u Splitu (University in Split)" }, "geometry": { "type": "Point", "coordinates": [ 16.4671, 43.51145 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Ime": "Libertas International University (Libertas međunarodno sveučilište - Dubrovnik)" }, "geometry": { "type": "Point", "coordinates": [ 18.11144, 42.64189 ] } }
+]
+}
